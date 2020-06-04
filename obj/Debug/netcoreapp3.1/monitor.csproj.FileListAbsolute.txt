@@ -1,0 +1,13 @@
+F:\repos\monitor\bin\Debug\netcoreapp3.1\monitor.exe
+F:\repos\monitor\bin\Debug\netcoreapp3.1\monitor.deps.json
+F:\repos\monitor\bin\Debug\netcoreapp3.1\monitor.runtimeconfig.json
+F:\repos\monitor\bin\Debug\netcoreapp3.1\monitor.runtimeconfig.dev.json
+F:\repos\monitor\bin\Debug\netcoreapp3.1\monitor.dll
+F:\repos\monitor\bin\Debug\netcoreapp3.1\monitor.pdb
+F:\repos\monitor\obj\Debug\netcoreapp3.1\monitor.csproj.CoreCompileInputs.cache
+F:\repos\monitor\obj\Debug\netcoreapp3.1\monitor.AssemblyInfoInputs.cache
+F:\repos\monitor\obj\Debug\netcoreapp3.1\monitor.AssemblyInfo.cs
+F:\repos\monitor\obj\Debug\netcoreapp3.1\monitor.dll
+F:\repos\monitor\obj\Debug\netcoreapp3.1\monitor.pdb
+F:\repos\monitor\obj\Debug\netcoreapp3.1\monitor.genruntimeconfig.cache
+F:\repos\monitor\obj\Debug\netcoreapp3.1\monitor.csprojAssemblyReference.cache
